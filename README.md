@@ -2,4 +2,4 @@
 
 ## Toolkit 1
 
-- [Game rule](Game Rule.md)
+- [Game rule](https://github.com/Justweng/COMP6250-Toolkit/blob/main/Game%20Rule.md)
