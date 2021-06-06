@@ -10,7 +10,7 @@
 
 - [Final stage and scoring](Stage.pdf)
 
-- [Some graphs fordemostration](Graph.pdf)
+- [Some graphs for demonstration](Graph.pdf)
 
 ## Toolkit 2
 
