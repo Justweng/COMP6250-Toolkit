@@ -2,4 +2,4 @@
 
 ## Toolkit 1
 
-- [Game rule]([Toolkit]Game Rule.docx)
+- [Game rule](Game Rule.md)
